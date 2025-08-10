@@ -7,4 +7,3 @@ print(age)
 # whether you are a student
 student <- (" T ")
 print(student)
- 
